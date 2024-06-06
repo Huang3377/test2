@@ -10,4 +10,4 @@ Camera: Quad rear camera system, including a 64MP main camera, 20MP ultra-wide c
 Battery: Built-in 5000mAh high-capacity battery with fast charging technology, reaching 80% charge in just 30 minutes, ensuring all-day use.
 Storage: Comes with 128GB of internal storage, expandable up to 1TB with a microSD card, so you'll never have to worry about running out of space.
 Operating System: Runs on the latest XOS 10.0, offering a more intelligent and user-friendly operating experience.
-Price: NT$ 15,001
+Price: NT$ 15,999
